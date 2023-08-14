@@ -110,10 +110,7 @@ img{
   display: block;
 }
 
-/*===== CLASS CSS =====*/
 
-
-/*===== LAYOUT =====*/
 
 .bd-container
 {
@@ -247,7 +244,7 @@ img{
 }
 
 /*===== SCROLL TOP =====*/
-
+/* 
 .scrolltop{
     position: fixed;    
     right: 1rem;
@@ -262,7 +259,7 @@ img{
     transition: .4s;
     visibility:hidden ;
     
-}
+} */
 
 .scrolltop:hover{
     background-color: var(--first-color);
@@ -349,7 +346,7 @@ img{
 
 
 
-/*BUTTONS*/
+
 
 
 /*===== ABOUT =====*/
@@ -586,17 +583,6 @@ img{
 
 
 
-
-
-
-
-
-/*===== SERVICES =====*/
-
-
-/*===== PROJECT IN MIND =====*/
-
-
 /*===== PORTFOLIO =====*/
 
 .portfolio__nav{
@@ -669,8 +655,6 @@ img{
     font-weight:var(--font-semi-bold) ;
 }
 
-
-/*===== TESTIMONIAL =====*/
 
 
 /*===== CONTACTME =====*/
