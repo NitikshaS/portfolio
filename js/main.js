@@ -127,9 +127,3 @@ function activePortfolio(){
 }
 linkPortfolio.forEach(l => l.addEventListener('click', activePortfolio))
 
-
-/*===== SWIPER CAROUSEL =====*/ 
-
-
-/*===== GSAP ANIMATION =====*/ 
-
